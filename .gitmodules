@@ -1,0 +1,9 @@
+[submodule "edk2"]
+	path = edk2
+	url = ./edk2
+[submodule "mikanos"]
+	path = mikanos
+	url = ./mikanos
+[submodule "osbook"]
+	path = osbook
+	url = ./osbook
