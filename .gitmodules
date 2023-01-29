@@ -7,3 +7,6 @@
 [submodule "osbook"]
 	path = osbook
 	url = ./osbook
+[submodule "mikanos-devcontainer"]
+	path = mikanos-devcontainer
+	url = ./mikanos-devcontainer
